@@ -1,2 +1,3 @@
-# ME-363 (System Dynamics)
+# System Dynamics (ME 363) 
+
 System Dynamics Course Projects
